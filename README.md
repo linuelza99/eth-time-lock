@@ -19,4 +19,4 @@ Then to start the application
 ```sh
 $ npm run dev
 ```
-Now go to logal host, import your account to metamask by entering your private key of your account in Ganache. Now use the application! 
+Now go to local host, import your account to metamask by entering your private key of your account in Ganache. Now use the application! 
